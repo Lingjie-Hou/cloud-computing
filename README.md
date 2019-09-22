@@ -1,9 +1,4 @@
 # cloud-computing
 
-
-nb
-
-
-
-![](.\image\2.png)
+[1.1][./1/1.md]
 
